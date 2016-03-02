@@ -7,7 +7,7 @@ Field models used in robot evaluation tasks of Japan Virtual Robotics Challenge
     Rescue tasks             : JVRC_R11L, JVRC_R11M, JVRC_R12, JVRC_R2AB, JVRC_R2C, JVRC_R3A, JVRC_R3B, JVRC_R4, JVRC_R5
     Unused task in JVRC      : JVRC_R1
 
-## How to setup
+## How to adding JVRC task models as gazebo models
 Do followings:  
 
     $ cd ~
