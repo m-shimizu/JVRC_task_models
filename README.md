@@ -1,5 +1,3 @@
-# NOW UNDERCONSTRUCTION!!
-
 # JVRC_task_models
 Field models used in robot evaluation tasks of Japan Virtual Robotics Challenge  
 
@@ -14,8 +12,5 @@ Do followings:
 
     $ cd ~
     $ git clone https://github.com/m-shimizu/JVRC_task_models  
-		$ cd ~/JVRC_task_models
-    $ mv JVRC_* ~/.gazebo/models  
-		$ cd ~
-		$ \rm -r ~/JVRC_task_models
-  
+    $ cd ~/JVRC_task_models  
+    $ cp JVRC_* ~/.gazebo/models  
